@@ -1,0 +1,15 @@
+{
+    "name": "blondie101010/amqp-tee",
+    "description": "Store a copy of all messages from a queue in a file and produce it on another queue.",
+    "type": "project",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.12"
+    },
+    "license": "LGPL-3",
+    "authors": [
+        {
+            "name": "Julie Pelletier",
+            "email": "blondie101010@hotmail.com"
+        }
+    ]
+}
